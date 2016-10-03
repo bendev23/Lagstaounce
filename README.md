@@ -3,7 +3,7 @@
 # Lagstaounce
 Instagram Incremental Game
 
-[Link to the game @ streamer.pnrxa.com](http://lagstaounce.pnrxa.com)
+[Link to the game @ lagstaounce.pnrxa.com](http://lagstaounce.pnrxa.com)
 <br>
 # WARNING: Lagstaounce is an ubalanced experiement. Game is functional but there might be bugs and progression issues.
 <br>
